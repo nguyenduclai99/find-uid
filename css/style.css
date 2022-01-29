@@ -1,0 +1,55 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.card-header.text-center {
+	display: block;
+}
+
+.card-title {
+	font-size: 28px!important;
+	color: #1d2671;
+}
+
+.btn.btn-primary.me-1.waves-effect.waves-float.waves-light {
+	width: 100%;
+}
+
+input.form-control {
+    height: 45px;
+    border-radius: 10px;
+}
+
+.btn.btn-primary.me-1.waves-effect.waves-float.waves-light {
+    height: 45px;
+	line-height: 25px;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+.card {
+    min-height: 70vh;
+}
+
+.col-8.collapse.show {
+    margin-top: 40px;
+}
+
+.design-form-input-UID-bottom {
+    background: linear-gradient(90deg ,#8bdeda,#43add0 25%,#998ee0 50%,#e17dc2 75%,#ef9393);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+button.btn.btn-outline-primary.waves-effect {
+    background-color: #7367F0;
+    color: #FFFFFF;
+}

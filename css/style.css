@@ -53,3 +53,11 @@ button.btn.btn-outline-primary.waves-effect {
     background-color: #7367F0;
     color: #FFFFFF;
 }
+
+h4.text-center {
+    font-size: 2rem;
+}
+
+.row.align-items-center {
+    padding: 0 20px;
+}

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Ffind-uid-to-phone","\u002Ffind-phone-to-uid"]})

@@ -3271,3 +3271,12 @@ button.btn.btn-outline-primary.waves-effect {
     border-radius: 0 10px 10px 0;
     color: #FFF;
 }
+
+.color-black {
+    color: #333333;
+    font-weight: 600;
+}
+
+.mgt-20 {
+    margin-top: 20px;
+}

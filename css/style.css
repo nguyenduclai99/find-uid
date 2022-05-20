@@ -455,6 +455,7 @@ span.sub-title{
     padding: 7px 15px;
     margin: 0;
     color: #363232;
+    white-space: break-spaces;
 }
 .main-menu ul>li .submenu> a:hover{
     background: #ebebeb;
@@ -2741,6 +2742,7 @@ span.sub-title{
     font-size: 10px;
     color: #ffffff;
     opacity: 0.7;
+    padding-top: 5px;
 }
 
 
@@ -3280,3 +3282,25 @@ button.btn.btn-outline-primary.waves-effect {
 .mgt-20 {
     margin-top: 20px;
 }
+
+.post-content img {
+    width: 80%!important;
+    height: 100%!important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bxcontentnewsindx h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+li.custom {
+    padding: 10px 0;
+}
+
+.bg-transparent.custom {
+    background-image: linear-gradient(to right, rgba(32, 40, 119, 1), rgba(55, 46, 149, 1), rgba(83, 49, 177, 1), rgba(114, 48, 205, 1), rgba(150, 41, 230, 1)) !important;
+}
+

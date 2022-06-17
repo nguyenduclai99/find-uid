@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/instagram/tang-like-instagram", {data:[{}],fetch:{},mutations:void 0});

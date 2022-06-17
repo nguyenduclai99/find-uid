@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiktok/convert-by-link-share", {data:[{}],fetch:{},mutations:void 0});
